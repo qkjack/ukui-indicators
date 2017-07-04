@@ -1,0 +1,20 @@
+This package has a Debian revision number but there does not seem to be
+an appropriate original tar file or .orig directory in the parent directory;
+(expected one of ukui-indicators_1.0.2.orig.tar.gz, ukui-indicators_1.0.2.orig.tar.bz2,
+ukui-indicators_1.0.2.orig.tar.lzma,  ukui-indicators_1.0.2.orig.tar.xz or ukui-indicators-1.0.2.orig)
+continue anyway? (y/n)  dpkg-buildpackage -rfakeroot -D -us -uc
+dpkg-buildpackage: info: 源码包 ukui-indicators
+dpkg-buildpackage: info: 源码版本 1.0.2-0ubuntu1
+dpkg-buildpackage: info: source distribution zesty
+dpkg-buildpackage: info: 源码修改者 handsome_feng <jianfengli@ubuntukylin.com>
+ dpkg-source --before-build ukui-indicators-1.0.2
+dpkg-buildpackage: info: 主机架构 amd64
+ fakeroot debian/rules clean
+dh clean
+   dh_testdir
+   dh_auto_clean
+   dh_clean
+ dpkg-source -b ukui-indicators-1.0.2
+dpkg-source: 警告: native package version may not have a revision
+dpkg-source: info: using source format '3.0 (native)'
+dpkg-source: info: building ukui-indicators in ukui-indicators_1.0.2-0ubuntu1.tar.xz

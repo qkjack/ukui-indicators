@@ -1,0 +1,6 @@
+/usr/share/glib-2.0/schemas/org.mate.panel.indicators.gschema.xml
+/usr/share/mate-panel/applets/org.mate.panel.MateIndicatorsApplet.mate-panel-applet
+/usr/share/dbus-1/services/org.mate.panel.applet.MateIndicatorsAppletFactory.service
+/usr/lib/x86_64-linux-gnu/ukui-indicators/libexec/reset_applet_position.py
+/etc/xdg/autostart/reset-applet-position.desktop
+/usr/lib/x86_64-linux-gnu/ukui-indicators/libexec/ukui-indicators

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Reset Applet Position
+Name[zh_CN]=Reset Applet Position
+Comment[zh_CN]=Reset Applet Position
+Exec=/usr/lib/x86_64-linux-gnu/ukui-indicators/libexec/reset_applet_position.py
+Terminal=false
+Type=Application
+Categories=Settings;
+Keywords=settings;
+NoDisplay=trues
+X-MATE-Bugzilla-Bugzilla=MATE
+X-MATE-Autostart-Notify=false

@@ -1,0 +1,7 @@
+6520912827d52494937e03a72245126e  usr/lib/x86_64-linux-gnu/ukui-indicators/libexec/reset_applet_position.py
+0a35d2015d0d91c620ec674e5d5f2d5d  usr/lib/x86_64-linux-gnu/ukui-indicators/libexec/ukui-indicators
+096300eee0839e35ee7ad463b5f53a8e  usr/share/dbus-1/services/org.mate.panel.applet.MateIndicatorsAppletFactory.service
+a755a73a482a88e21ea59456b24e7fae  usr/share/doc/ukui-indicators/changelog.Debian.gz
+2ba9f7545817d1b58bf868ef27ec2a7b  usr/share/doc/ukui-indicators/copyright
+b7e2ebd7225dfab6fdc3536d8e0895a6  usr/share/glib-2.0/schemas/org.mate.panel.indicators.gschema.xml
+9e0c06aeed3a8b453c7c3bd91127f9eb  usr/share/mate-panel/applets/org.mate.panel.MateIndicatorsApplet.mate-panel-applet

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libindicator-application.a  CMakeFiles/indicator-application.dir/indicator-application.cpp.o CMakeFiles/indicator-application.dir/na-tray.c.o CMakeFiles/indicator-application.dir/na-tray-manager.c.o CMakeFiles/indicator-application.dir/na-tray-child.c.o CMakeFiles/indicator-application.dir/fixedtip.c.o CMakeFiles/indicator-application.dir/na-marshal.c.o
+/usr/bin/ranlib libindicator-application.a
